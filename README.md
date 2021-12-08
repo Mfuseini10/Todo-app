@@ -1,6 +1,6 @@
-# awesome_todo_app
+# Awesome_todo_app
 
-A new Flutter project.
+An implementation Todo app in Flutter.
 
 ## Getting Started
 
